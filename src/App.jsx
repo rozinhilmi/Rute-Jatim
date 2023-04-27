@@ -97,7 +97,7 @@ function App() {
             <use xlinkHref="#gentle-wave" x="48" y="5" fill="rgba(255,255,255,0.3)" />
             <use xlinkHref="#gentle-wave" x="48" y="7" fill="#fff" />
           </g>
-        </svg>
+      </svg>
       <div className='navbar'>
         <h3>Find the Fastest Route for Road Driving in East Java area</h3>
       </div>

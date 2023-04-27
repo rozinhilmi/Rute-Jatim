@@ -26,9 +26,6 @@
   color: white;
 }
 body{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   background-color: rgba(255, 192, 203, 0.496);;
   
 }
@@ -37,12 +34,13 @@ body{
   width: 100%;
   max-width: 1440px;
   min-height: 100vh;
-  margin-right: auto;
+  margin: auto;
   display: flex;
   flex-direction: column;
 }
 .navbar{
   width: 100%;
+  max-width: 1440px;
   height: 1.5cm;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   display: flex;
@@ -105,8 +103,6 @@ body{
   }
   .box-form .input-form div{
     width: 100%;
-    /* margin-left: auto;
-    margin-right: auto; */
   }
   .waves {
     position:fixed;
