@@ -745,11 +745,6 @@ const states = createSlice({
             "is_active": true,
             "city_name": "Klakah",
             "distance": 28.7
-          },
-          {
-            "is_active": true,
-            "city_name": "Tumpang",
-            "distance": 74.7
           }
         ]
       },
@@ -905,11 +900,6 @@ const states = createSlice({
             "is_active": true,
             "city_name": "Lawang",
             "distance": 28.9
-          },
-          {
-            "is_active": true,
-            "city_name": "Probolinggo",
-            "distance": 74.7
           }
         ]
       }
